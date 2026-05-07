@@ -28,5 +28,5 @@ Before running the application, ensure you have Python installed and the followi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/DevAlya.git](https://github.com/your-username/DevAlya.git)
+   git clone [https://github.com/SamJoel2007/DevAlya.git](https://github.com/SamJoel2007/DevAlya.git)
    cd DevAlya
